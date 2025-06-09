@@ -16,7 +16,6 @@ export function NewsSection() {
           </div>
 
           <div className="grid gap-8 md:grid-cols-2">
-            {/* Coluna 1 - Aparições na Mídia */}
             <div className="space-y-6">
               <h3 className="text-xl font-semibold text-neutral-800 border-b border-neutral-200 pb-2">
                 Aparições na Mídia
@@ -97,7 +96,6 @@ export function NewsSection() {
               </div>
             </div>
 
-            {/* Coluna 2 - Palestras e Eventos */}
             <div className="space-y-6">
               <h3 className="text-xl font-semibold text-neutral-800 border-b border-neutral-200 pb-2">
                 Palestras & Eventos
