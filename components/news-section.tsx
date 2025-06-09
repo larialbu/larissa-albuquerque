@@ -3,7 +3,7 @@ import { ExternalLink, Calendar } from "lucide-react"
 
 export function NewsSection() {
   return (
-    <section className="border-t border-neutral-200 bg-white py-12 md:py-24">
+    <section id="noticias" className="border-t border-neutral-200 bg-white py-12 md:py-24">
       <div className="container">
         <div className="mx-auto max-w-[800px] space-y-8">
           <div className="space-y-2 text-center">
